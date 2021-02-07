@@ -1,0 +1,65 @@
+.navbar-brand
+{
+
+}
+
+
+}
+
+.formulario {
+    border-radius: 20px 0px 0px 20px;
+    align-items: flex-end;
+}
+
+
+input {
+    width: 300px;
+    padding: 10px;
+    color: black;
+    margin-left:auto;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    
+    
+}
+
+textarea {
+    width: 393px;
+    padding: 10px;
+    color: black;
+    margin-left:auto;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;  
+}
+
+
+input:hover, textarea:hover, input:focus, textarea:focus {
+    border-color: #000066;
+    box-shadow: 5px 0px 9px #FFFFfc;
+    background-color: #F8F8FF;
+    color: black;
+    font-weight: bold;
+    
+    
+    
+    
+}
+.enviar {
+    background-color:  #F8F8FF;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid;
+    color: black;
+    
+}
+form label {
+    margin-right: 20px;
+    color: black;
+    font-weight: bold;
+}
